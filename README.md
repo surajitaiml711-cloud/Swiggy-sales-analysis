@@ -76,7 +76,7 @@ Swiggy-Sales-Analysis/
 Shows the monthly revenue generated.
 
 <p align="center">
-<img src="[images/monthly_sales.png](https://github.com/surajitaiml711-cloud/Swiggy-sales-analysis/blob/main/Images/monthly_sales.png)" width="900">
+  <img src="https://raw.githubusercontent.com/surajitaiml711-cloud/Swiggy-sales-analysis/main/Images/monthly_sales.png" width="900" alt="Monthly Sales">
 </p>
 
 ---

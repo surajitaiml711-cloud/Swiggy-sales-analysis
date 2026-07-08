@@ -180,7 +180,7 @@ import plotly.graph_objects as go
 Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/Swiggy-Sales-Analysis.git
+git clone https://github.com/surajitaiml711-cloud/Swiggy-Sales-Analysis.git
 ```
 
 Move into project directory
@@ -255,12 +255,12 @@ and feel free to share your feedback.
 
 # 👨‍💻 Author
 
-**Your Name**
+**Surajit Singh**
 
 Python Developer | Data Analyst
 
 
-GitHub: https://github.com/yourusername
+GitHub: https://github.com/surajitaiml711-cloud
 
 ---
 
